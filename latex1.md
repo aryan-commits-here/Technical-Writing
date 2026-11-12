@@ -1,4 +1,4 @@
-# LaTeX Basics & Document Structure (latex1)
+# LaTeX Basics & Document Structure
 
 ## 1. What is LaTeX?
 
