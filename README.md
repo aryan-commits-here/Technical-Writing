@@ -14,6 +14,7 @@ Instead of a scattered collection of lab files, each main subject has its own cl
 |---|---|---|
 | [`latex1.md`](./latex1.md) | **LaTeX Basics & Structure** | Introduction to LaTeX, document structure, headings, basic formatting, bullet points, and cross-referencing. |
 | [`latex2.md`](./latex2.md) | **LaTeX Tables, Math & Figures** | Mathematical formulas, creating structured tables, inserting images/figures, and basic colors. |
+| [`beamer.md`](./beamer.md) | **Presentations with Beamer** | Creating slide decks in LaTeX, frames, themes (`Madrid`), blocks, multi-column slides, and `\pause` reveals. |
 | [`google-docs.md`](./google-docs.md) | **Google Docs & Writing Basics** | Core principles of technical writing, report structure, and using Google Docs for collaborative drafting. |
 | [`doxygen.md`](./doxygen.md) | **Code Documentation with Doxygen** | Generating automatic code documentation from C/C++ comments, tags (`@brief`, `@param`, `@return`), and `Doxyfile` setup. |
 | [`git.md`](./git.md) | **Git & GitHub Basics** | Version control concepts, staging and committing changes, branching, syncing with GitHub, and `.gitignore`. |
