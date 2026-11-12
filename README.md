@@ -1,10 +1,4 @@
-# Technical Writing Course Notes & Study Material
-
-> **Course**: Technical Writing (22CPT206) & Technical Writing Lab (22CPP210)  
-> **Department**: Computer Science & Engineering, MNIT Jaipur (3rd Semester)  
-> **Student**: Aryan Sharma  
-
----
+# Technical Writing Course
 
 ## 📌 About This Repository
 
