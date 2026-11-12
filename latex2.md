@@ -1,4 +1,4 @@
-# LaTeX Tables, Math, and Figures (latex2)
+# LaTeX Tables, Math, and Figures
 
 ## 1. Writing Mathematics in LaTeX
 
